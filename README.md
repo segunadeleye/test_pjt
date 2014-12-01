@@ -36,5 +36,12 @@ EXERCISE 2
 
 24. git push -u origin master
 
-25. git rebase testing
- 
+25. git rebase -i master
+
+27. git fetch
+    
+    git checkout --tracking origin/testing
+    
+28. git checkout master
+
+29. git merge testing
