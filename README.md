@@ -23,3 +23,18 @@ EXERCISE 2
 12. git checkout staging
 
 14. git commit -am "This is the third commit"
+
+15. git checkout master
+
+16. git merge staging
+
+17. git checkout -b testing
+
+20. git push -u origin testing
+
+21. git checkout master
+
+24. git push -u origin master
+
+25. git rebase testing
+ 
